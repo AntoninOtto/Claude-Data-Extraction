@@ -1,0 +1,6 @@
+pymupdf
+easyocr
+pillow
+numpy
+anthropic
+tqdm
